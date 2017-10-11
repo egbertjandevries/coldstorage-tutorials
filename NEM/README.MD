@@ -1,6 +1,6 @@
 # NEM
 
-###Wallet Software
+### Wallet Software
 
 For NEM we use the [NanoWallet](https://github.com/NemProject/NanoWallet/releases)
 
@@ -8,9 +8,7 @@ For NEM we use the [NanoWallet](https://github.com/NemProject/NanoWallet/release
 2. After downloading, check the checksum with `openssl sha -sha256 NanoWallet-1.4.13-osx64.zip`
 3. Expand the ZIP
 
-
-
-###Offline Address Generation
+### Offline Address Generation
 
 We don't use the BIP32 feature but create the addresses with a separate private key each.
 
