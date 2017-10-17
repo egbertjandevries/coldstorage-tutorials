@@ -40,3 +40,9 @@ To install the the WavesLiteApp on an offline PC we first need to load the App a
 
 
 
+### Cold Transaction Signing
+
+Not supported
+
+
+
