@@ -8,5 +8,5 @@ After downloading, check the checksum with `openssl sha -sha256 steem-paperwalle
 
 After this, the ZIP can be extracted.
 
-
+Normal wallet software does not seem to exist for Steem. Registered at Steemit.com, let's wait and see.
 
