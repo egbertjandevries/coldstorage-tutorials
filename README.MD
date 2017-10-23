@@ -18,4 +18,6 @@ This project contains the tutorials for Crypto Index fund coins for
 | WAVES | <https://wavesplatform.com/>  | <http://wavesgo.com/>                 | [here](/WAVES) |
 | ADA   | <https://www.cardanohub.org/> | <https://cardanoexplorer.com/>        | [here](/ADA)   |
 | XLM   | <https://www.stellar.org/>    | <https://stellarchain.io/>            | [here](/XML)   |
+| STEEM | <https://steem.io/>           |                                       | [here](/STEEM) |
+| BCN   | <https://bytecoin.org/>       | <https://chainradar.com/bcn/blocks>   | [here](/BCN)   |
 
