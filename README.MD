@@ -21,5 +21,5 @@ This project contains the tutorials for Crypto Index fund coins for
 | STEEM | <https://steem.io/>            |                                          | [here](/STEEM)                           |
 | BCN   | <https://bytecoin.org/>        | <https://chainradar.com/bcn/blocks>      | [here](/BCN)                             |
 | ARDR  | https://www.ardorplatform.org/ | https://www.mynxt.info/asset/12422608354438203866 | [here](https://nxtplatform.org/download/) |
-| GAS   | https://neo.org/               | <https://neotracker.io/asset/602c79718b16e442de58778e148d0b1084e3b2dffd5de6b7b16cee7969282de7> | [here](/NEO)                             |
+| GAS   | https://neo.org/               | [click here](https://neotracker.io/asset/602c79718b16e442de58778e148d0b1084e3b2dffd5de6b7b16cee7969282de7) | [here](/NEO)                             |
 
