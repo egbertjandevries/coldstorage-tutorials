@@ -4,9 +4,17 @@
 
 For NEM we use the [NanoWallet](https://github.com/NemProject/NanoWallet/releases)
 
+For Linux
 1. Download it
 2. After downloading, check the checksum with `openssl sha -sha256 NanoWallet-1.4.13-osx64.zip`
 3. Expand the ZIP
+
+For Windows:
+1.  Download the Checksum program at: http://www.microsoft.com/en-us/download/details.aspx?id=11533 
+2.  CMD as admin= C:\Windows\system32>CertUtil -hashfile (space complete path to file. An Example= C:\Windows\system32>CertUtil -hashfile C:\Users\other\Downloads\Zorin9\zorin-os-9.1-core-64.iso MD5)
+3.  Expand the ZIP
+
+
 
 ### Offline Address Generation
 
