@@ -11,8 +11,9 @@ For Linux:
 
 For Windows:
 1. Download it
-2. After downloading, check the checksum with `CertUtil -hashfile ...\IOTA.Wallet.Setup.2.5.4.exe SHA256`
-3. Install it
+2. Download the Checksum program at: http://www.microsoft.com/en-us/download/details.aspx?id=11533
+3. After downloading, check the checksum with `CertUtil -hashfile ...\IOTA.Wallet.Setup.2.5.4.exe SHA256`
+4. Install it
 
 For paper wallet generation [this tool](https://arancauchi.github.io/IOTA-Paper-Wallet/ ) is available. Click on *Download an offline version of this site*.
 
