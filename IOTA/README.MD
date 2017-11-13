@@ -4,8 +4,14 @@
 
 IOTA Wallets can be downloaded [here](https://github.com/iotaledger/wallet/releases). 
 
+For Linux:
 1. Download it
 2. After downloading, check the checksum with `openssl sha -sha256 IOTA.Wallet-2.5.1.dmg`
+3. Install it
+
+For Windows:
+1. Download it
+2. After downloading, check the checksum with `CertUtil -hashfile ...\IOTA.Wallet.Setup.2.5.4.exe SHA256`
 3. Install it
 
 For paper wallet generation [this tool](https://arancauchi.github.io/IOTA-Paper-Wallet/ ) is available. Click on *Download an offline version of this site*.
