@@ -11,7 +11,7 @@ For Linux
 
 For Windows:
 1.  Download the Checksum program at: http://www.microsoft.com/en-us/download/details.aspx?id=11533 
-2.  CMD as admin= C:\Windows\system32>CertUtil -hashfile (space complete path to file. An Example= C:\Windows\system32>CertUtil -hashfile C:\Users\other\Downloads\Zorin9\zorin-os-9.1-core-64.iso SHA256)
+2.  CMD as admin= '...\CertUtil -hashfile ...\NanoWallet-1.4.13-win64.zip SHA256'
 3.  Expand the ZIP
 
 
