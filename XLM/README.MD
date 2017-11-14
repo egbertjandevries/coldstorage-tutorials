@@ -8,7 +8,7 @@ The coin for the Stellar Blockchain is called Lumens (XLM). There are several wa
 
 Following steps for offline address generation
 
-1. Start the Wallet `nwjs.app`
+1. Start the Wallet `StellarWallet.exe`
 2. Click *Create new account*
 3. Click *Create an empty account*
 4. Think of a dummy wallet file and a dummy password
@@ -17,7 +17,7 @@ Following steps for offline address generation
 
 ### Using the Address online
 
-1. Start the Wallet `nwjs.app`
+1. Start the Wallet `StellarWallet.exe`
 2. Click *Create new account*
 3. Click *Import existing secret key*
 4. Enter the Secret Key and click *Create new account*
