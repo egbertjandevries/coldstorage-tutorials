@@ -11,7 +11,7 @@ For Linux:
 
 For Windows:
 1. Download the Checksum program at: http://www.microsoft.com/en-us/download/details.aspx?id=11533
-2. After downloading the checksum program, install it in C:\Windows\System32\
+2. After downloading the checksum program, install it (right click: run as administrator) in C:\Windows\System32\
 3. Download the IOTA wallet
 4. After downloading, check the checksum with: CMD as admin= `C:\Windows\System32\CertUtil -hashfile ...\IOTA.Wallet.Setup.2.5.4.exe SHA256`
 5. Install it
