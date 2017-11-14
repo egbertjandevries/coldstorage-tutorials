@@ -18,7 +18,7 @@ For Windows:
 
 ### Offline Address generation
 
-1. Start the PWGen tool and generate a seed of lenght 81 using Character set: <AZ>9
+1. Start the PWGen tool and generate a seed of lenght 81 using Character set: `<AZ>9`
 2. Start the address generator by loading the *index.html* in a browser.
 3. Enter and Register the SEED.
 4. Register the address together with the SEED.
