@@ -2,6 +2,8 @@
 
 ### Wallet Software
 
+OUTDATED: SUPPORT FOR LEDGER NANO S SINCE NOV 07 2017
+
 NEO wallet software can be downloaded [here](https://github.com/CityOfZion/neon-wallet/releases)
 
 1. Download it

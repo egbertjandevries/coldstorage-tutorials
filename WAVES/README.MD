@@ -14,7 +14,7 @@ To install the the WavesLiteApp on an offline PC we first need to load the App a
 6. Rename the extracted directory to `WavesLiteAppv0.5.7`
 7. Inside this directory, rename the `_metadata` directory to `metadata`
 8. Open Chrome and navigate to <chrome://extensions/>
-9. Click *Load extracted extension* and point to the directory.
+9. Select 'Developer mode' and Click *Load extracted extension* and point to the directory.
 10. Navigate to <chrome://apps> and start the WavesLite client
 
 

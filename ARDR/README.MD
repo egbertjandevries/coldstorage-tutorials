@@ -9,7 +9,7 @@ Ardor is a coin that (for now) lives on the NXT blockchain. It can be handled us
 1. Start the wallet on an offline PC
 2. Click on *New Account*
 3. Register the automatically generated 'password' (which is the mnemonic) as well ass the public account address. These are the private key and the public key.
-4. Repeat it as often as you need addresses
+4. Repeat it as often as you need addresses (shutdown the application and restart)
 
 
 
