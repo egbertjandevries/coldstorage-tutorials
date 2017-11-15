@@ -4,7 +4,7 @@
 
 There is an online Monero wallet available at <https://mymonero.com/#/>. You can log in there using a mnemonic or a combination of a public key, view key and spend key.
 
-A better, but more complicated option is using `monero-wallet-cli`.
+An online Desktop Wallet can be found here <https://getmonero.org/downloads/#windows>
 
 For offline address generation we use this HTML file: <https://github.com/moneromooo-monero/monero-wallet-generator/>
 
@@ -16,7 +16,11 @@ For offline address generation we use this HTML file: <https://github.com/monero
 
 ### Using the Address online
 
-[tbd]
+1. Start the Online Wallet, Monero Wallet GUI, choose English
+2. Choose *Restore wallet from keys*
+3. Enter the keys
+4. Deamon needs to synchronize first…. can take some time
+5. Send can only be done on synchronized Monero chain
 
 ### Cold Transaction Signing
 
