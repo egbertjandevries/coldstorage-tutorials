@@ -24,14 +24,9 @@ We don't use the BIP32 feature but create the addresses with a separate private 
 
 Following steps:
 
-1. Start the wallet by loading the `start.html` from the wallet distro in a browser.
-2. Choose *Signup* and click *Simple Wallet*.
-3. Enter a unique wallet name, select *Mainnet*, and choose a password (can be 'dummy')
-4. Save the dummy wallet file.
-5. Click on *Show private key* in the next dialog and register the key in the NEM address list.
-6. Refresh the page.
-7. Click on *Private key wallet* and enter the private key.
-8. The public address shows up, register it.
+1. Start the wallet by loading the `index.html` from the wallet distro in a browser.
+2. The private key, public key= and public address show up. Register them.
+3. Refresh the screen for new keys
 
 
 
