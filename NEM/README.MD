@@ -25,7 +25,7 @@ We don't use the BIP32 feature but create the addresses with a separate private 
 Following steps:
 
 1. Start the wallet by loading the `index.html` from the wallet distro in a browser.
-2. The private key, public key= and public address show up. Register them.
+2. The private key, public key and public address show up. Register them.
 3. Refresh the screen for new keys
 
 
