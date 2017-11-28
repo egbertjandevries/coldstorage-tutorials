@@ -18,7 +18,7 @@ Ardor is a coin that (for now) lives on the NXT blockchain. It can be handled us
 1. Start the wallet on an online PC
 2. Click on *New Account*
 3. Ignore the automatically generated mnemonic and click *Want to use your own password, click here*
-4. Paste and re-paste the mnemonic that you registered before
+4. Paste and re-paste the 'password' (which is the mnemonic) into the password field that you registered before
 5. Click *Register*
 6. Now we should find out how to send the ARDR. Either the possesion of it will be automatically recognized, or we need to add the specific ARDR id, which is 12422608354438203866
 
