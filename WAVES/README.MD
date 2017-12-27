@@ -21,9 +21,9 @@ To install the the WavesLiteApp on an offline PC we first need to load the App a
 
 ### Offline Address Generation
 
-1. Start the WavesLite client from <chrome://apps> 
+1. Start the `index.html` in the wallet map
 2. Click *NEW ACCOUNT*
-3. Think of a Name and a Password
+3. Think of a Name and a Password adn click on `register'
 4. In the Wallet Screen, click on the Backup Icon in the right upper screen.
 5. Now, register the Seed, the Encoded Seed, the Private Key, the Public Key, Address
 

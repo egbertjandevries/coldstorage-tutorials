@@ -28,9 +28,11 @@ For Windows:
 ### Using the Address online
 
 1. Start the IOTA wallet
-2. Enter the SEED
-3. Check the corresponding address
-4. Mark the SEED as used.
+2. Select `light wallet`
+3. Select a node and select start
+4. Enter the SEED
+5. Check the corresponding address
+6. Mark the SEED as used.
 
 
 
