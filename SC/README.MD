@@ -4,7 +4,7 @@
 
 The Wallet for SIA can be downloaded here: <https://github.com/NebulousLabs/Sia-UI/releases>
 
-The Paper Wallet for SIA can be downloaded here: <https://github.com/avahowell/sia-coldstorage/release>
+The Paper Wallet for SIA can be downloaded here: <https://github.com/avahowell/sia-coldstorage/releases>
 
 ### Offline Address Generation
 
@@ -14,4 +14,5 @@ The Paper Wallet for SIA can be downloaded here: <https://github.com/avahowell/s
 ### Using the Address Online
 
 1. Start the Sia-UI wallet
-2. 
+2. Choose Recover Seed
+3. 
