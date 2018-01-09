@@ -20,7 +20,8 @@ This project contains the tutorials for Crypto Index fund coins for
 | XLM   | <https://www.stellar.org/>     | <https://stellarchain.io/>               | [here](/XML)   |
 | STEEM | <https://steem.io/>            |                                          | [here](/STEEM) |
 | BCN   | <https://bytecoin.org/>        | <https://chainradar.com/bcn/blocks>      | [here](/BCN)   |
-| ARDR  | https://www.ardorplatform.org/ | https://www.mynxt.info/asset/12422608354438203866 | [here](/ARDR)  |
-| GAS   | https://neo.org/               | https://neotracker.io/                   | [here](/NEO)   |
-| XVG   | https://vergecurrency.com      | https://verge-blockchain.info/           | [here](/XVG)   |
+| ARDR  | <https://www.ardorplatform.org/> | <https://www.mynxt.info/asset/12422608354438203866> | [here](/ARDR)  |
+| GAS   | <https://neo.org/>               | <https://neotracker.io/>                   | [here](/NEO)   |
+| XVG   | <https://vergecurrency.com>      | <https://verge-blockchain.info/>           | [here](/XVG)   |
+| SC | <https://sia.tech/>.               | <https://explore.sia.tech/>. | [here] (/SC) | 
 
