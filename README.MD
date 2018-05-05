@@ -26,4 +26,5 @@ This project contains the tutorials for Crypto Index fund coins for
 | XVG   | <https://vergecurrency.com>      | <https://verge-blockchain.info/>           | [here](/XVG)   |
 | SC | <https://sia.tech/>.               | <https://explore.sia.tech/>. | [here](/SC) | 
 | ONT | <https://ont.io/> | <https://neoscan.io/> | [here](/ONT) |
+| EOS | <https://eos.io/> | <http://eostracker.io> | [here](/EOS) |
 
