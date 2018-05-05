@@ -1,4 +1,4 @@
-##EOS
+## EOS
 
 ### Wallet Software
 
@@ -14,15 +14,16 @@ Follow there steps to run it offline:
 3. Open de file `EOS Key Generation.html` using Firefox, or boot Chrome without cross-browser security:
 	*  on OSX: `open -a Google\ Chrome --args --disable-web-security --user-data-dir` 
 	*  on Windows: `chrome.exe" --disable-web-security`
-*  Open the file `EOS Key Generation.html` from the filesystem, using Chrome
+4.  Open the file `EOS Key Generation.html` from the filesystem, using Chrome
 
 A different option
 
-4. Fire up a webserver, e.g. on OSX: `python -m SimpleHTTPServer 8000`
+4. Fire up a webserver, e.g: `python -m SimpleHTTPServer 8000`
 5. In offline mode, run the generator locally on OSX: <http://localhost:8000/EOS%20Key%20Generation.html>
 
 
 ### Online Wallet
+[not available yet]
 
 ### Offline Address generation
 
