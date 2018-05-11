@@ -4,7 +4,7 @@
 
 For offline address generation we use the Verge Open Source Javascript paper wallet generator. To download it, go here <http://vergecurrency.com/paper-wallet/index.html> and click on Secure Download in the right-lower corner.
 
-As wallet software we can use the Verge Electrum Wallet, to be downloaded from this page <https://vergecurrency.com/langs/nl/#wallet>
+As wallet software we can use the Verge Electrum Wallet, to be downloaded from this page <https://vergecurrency.com/wallets/>
 
 ### Offline Address generation
 
