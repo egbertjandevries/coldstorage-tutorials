@@ -13,7 +13,7 @@ Follow there steps to run it offline:
 2. Save the site using Save as HTML to your local filesystem
 3. Open de file `EOS Key Generation.html` using Firefox, or boot Chrome without cross-browser security:
 	*  on OSX: `open -a Google\ Chrome --args --disable-web-security --user-data-dir` 
-	*  on Windows: `chrome.exe" --disable-web-security`
+	*  on Windows: `chrome.exe" --disable-web-security --user-data-dir="C:/gebruikers/gebruiker`
 4.  Open the file `EOS Key Generation.html` from the filesystem, using Chrome
 
 A different option

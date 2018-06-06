@@ -2,7 +2,7 @@
 
 ### Wallet Software
 
-Download here the [Lisk Wallet](https://lisk.io/download) for normal online transactions.
+Download here the [Lisk Wallet](https://github.com/LiskHQ/lisk-nano/releases) for normal online transactions.
 
 To generate offline addresss, use this one <http://liskpaperwallet.com/> . Install it by downloading the distro, clicking the *Download* link.
 
