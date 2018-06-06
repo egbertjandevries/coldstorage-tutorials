@@ -19,7 +19,7 @@ This project contains the tutorials for Crypto Index fund coins for
 | ADA   | <https://www.cardanohub.org/>  | <https://cardanoexplorer.com/>           | [here](/ADA)   |
 | XLM   | <https://www.stellar.org/>     | <https://stellarchain.io/>               | [here](/XML)   |
 | STEEM | <https://steem.io/>            |                                          | [here](/STEEM) |
-| BCN   | <https://bytecoin.org/>        | <https://chainradar.com/bcn/blocks>      | [here](/BCN)   |
+| BCN   | <https://bytecoin.org/>        |      | [here](/BCN)   |
 | ARDR  | <https://www.ardorplatform.org/> | <https://www.mynxt.info/asset/12422608354438203866> | [here](/ARDR)  |
 | GAS   | <https://neo.org/>               | <https://neotracker.io/>                   | [here](/NEO)   |
 | XRB | <https://nano.org/en>  | <https://www.nanode.co/> | [here](/XRB) |
@@ -27,4 +27,4 @@ This project contains the tutorials for Crypto Index fund coins for
 | SC | <https://sia.tech/>.               | <https://explore.sia.tech/>. | [here](/SC) | 
 | ONT | <https://ont.io/> | <https://neoscan.io/> | [here](/ONT) |
 | EOS | <https://eos.io/> | <http://eostracker.io> | [here](/EOS) |
-
+| BTS | <https://bitshares.org> | <http://bitshares-explorer.io> | [here](/BTS)|

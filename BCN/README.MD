@@ -21,7 +21,7 @@ For the online wallet, we use the official Desktop Wallet that can be downloaded
 
 1. Start the Desktop Wallet.
 
-2. Connect it to a remote daemon (in preferences/settings), as to prevent the complete blockchain synchronisation. Use `node.bytecoin.ninja:8081` 
+2. Add following options to Command Line Options via Tools -> Wallet Daemon Parameters `--bytecoind-remote-address=107.6.143.228:8081` or a different remote address, to be found on <https://node.bytecoins.world/>
 
 3. Import the private key, through File -> Import Key.
 

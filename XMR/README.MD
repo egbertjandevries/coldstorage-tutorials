@@ -18,8 +18,8 @@ For offline address generation we use this HTML file: <https://github.com/monero
 
 1. Start the Online Wallet, Monero Wallet GUI, choose English
 2. Choose *Restore wallet from keys*
-3. Enter the keys
-4. Deamon needs to synchronize first…. can take some time
+3. Enter the keys and a suitable block height as close as possible to the date that the old address started to be used. Check [here](<https://moneroblocks.info/search/1572000>).
+4. Deamon needs to synchronize first…. can take some time. Choose External Node from `https://moneroworld.com/` e.g. `ushouldrunyourownnode.moneroworld.com` at port `18089`.
 5. Send can only be done on synchronized Monero chain
 
 ### Cold Transaction Signing
