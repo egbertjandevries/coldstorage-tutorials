@@ -29,4 +29,5 @@ This project contains the tutorials for Crypto Index fund coins for
 | EOS | <https://eos.io/> | <http://eostracker.io> | [here](/EOS) |
 | BTS | <https://bitshares.org> | <http://bitshares-explorer.io> | [here](/BTS)|
 | DCR | <https://www.decred.org> | <https://mainnet.decred.org/> | [here](/DCR)|
+| ICX | <https://https://icon.foundation/?lang=en> | <https://tracker.icon.foundation/> | [here](/ICX) |
 
