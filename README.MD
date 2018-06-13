@@ -28,3 +28,5 @@ This project contains the tutorials for Crypto Index fund coins for
 | ONT | <https://ont.io/> | <https://neoscan.io/> | [here](/ONT) |
 | EOS | <https://eos.io/> | <http://eostracker.io> | [here](/EOS) |
 | BTS | <https://bitshares.org> | <http://bitshares-explorer.io> | [here](/BTS)|
+| DCR | <https://www.decred.org> | <https://mainnet.decred.org/> | [here](/DCR)|
+
