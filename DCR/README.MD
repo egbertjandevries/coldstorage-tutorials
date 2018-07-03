@@ -1,5 +1,6 @@
 # Decred
 -
+
 ###Wallet Software
 
 There is an offline paper wallet `dcraddreg.exe` that has to be build from this [repo](https://github.com/decred/dcraddrgen) using the Go language.
