@@ -1,5 +1,4 @@
 # Wallet Software
---
 
 ### Wallet Software
 
@@ -17,7 +16,7 @@ For the online wallet we can use the Chrome Add-on for Tron, to be installed [he
 5. Register the Address and the Private Key
 6. Refresh the page and repeat the process to generate another one.
 
-###Using the address online
+### Using the address online
 
 1. Open the Tron Wallet Chrome Addon .
 2. Login with the Primary Key of the Active Address.
