@@ -1,5 +1,5 @@
 # Decred
--
+--
 
 ### Wallet Software
 
