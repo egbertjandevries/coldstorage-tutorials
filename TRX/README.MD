@@ -3,7 +3,7 @@
 
 ### Wallet Software
 
-The [web wallet](https://tronscan.org/#/wallet/new) can be saved as HTML (from Chrome) and be run offline.
+For the offline address generation, the [web wallet](https://tronscan.org/#/wallet/new) can be saved as HTML (from Chrome) and be run offline.
 
 For the online wallet we can use the Chrome Add-on for Tron, to be installed [here](<https://chrome.google.com/webstore/detail/tron-wallet/nlojapkcleceehbbknkkjamcpmaliabo>).
 

@@ -41,7 +41,8 @@ The idea is to never change the `@owner` Public Key and never expose the corresp
 3. Once found, click on `Show Json` and check the keys with `active` and `owner`. 
 
 #### Transfer Funds
-1. In Scatter, register the active `@active` Public Key  under Key Pairs. 
+
+1. In Scatter, register the active `@active` Public Key  under Key Pairs. (If you run Scatter for the first time, think of a passphrase, it is not used later.)
 2. Click *New*, name it `Active Key` and enter the corresponding Private Key. Click *Save*.
 3. Still in Scatter, navigate to Identities and click *Create Identity*.
 4. With Account, select `EOS Mainnet` and below, select `Active Key`. Click *Import*. 
