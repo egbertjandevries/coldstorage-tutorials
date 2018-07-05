@@ -2,19 +2,23 @@
 
 ### Wallet Software
 
-For the offline address generation, the [web wallet](https://tronscan.org/#/wallet/new) can be saved as HTML (from Chrome) and be run offline.
+For the offline address generation, we use the [desktop wallet](https://github.com/TronWatch/Desktop-Wallet/releases) version (TronWatch).
 
 For the online wallet we can use the Chrome Add-on for Tron, to be installed [here](<https://chrome.google.com/webstore/detail/tron-wallet/nlojapkcleceehbbknkkjamcpmaliabo>).
 
 ### Offline Address Generation
 
-1. Load the `Tronscan.html` in Chrome.
-2. Click on *Open Wallet* -> *Create Wallet* in the right upper corner.
-3. Think of a difficult password, e.g. `nEvCXA5KfAPpXqwjBqa`
-4. Click *Next* twice
-5. Click on *PRINT PAPER WALLET*
-5. Register the Address and the Private Key
-6. Refresh the page and repeat the process to generate another one.
+1. Start the TronWatch app
+2. Click on *Create New Wallet*
+3. Click on *Receive* and register the Public Key.
+4. Go back and click *Backup Wallet* in the right upper corner.
+5. Register the Private Key and maybe the picture of the Mnemonic
+6. Create a new Wallet for a new keypair.
+
+### Offline Transaction Signing
+
+Using one address it is possible to Offline Sign a transaction and submit it on <https://tronscan.org/#/tools/transaction-viewer>. 
+(Should still be tested).
 
 ### Using the address online
 
