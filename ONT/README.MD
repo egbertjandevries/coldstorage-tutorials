@@ -2,19 +2,8 @@
 
 ### Wallet Software
 
-ONT is a NEP-5 Asset. Receive and Send is supported by the NEO wallet. The latest version comes with Nano Ledget Support. 
+Ontology has Ledger Nano S support through the Ontology Wallet (OWallet), which can be installed here:
 
-See [here](../NEO) how to install it.
+ <https://github.com/ontio/OWallet/releases>
 
-### Offline Address generation
 
-Use the fund's NEO address.
-
-### Transferring ONT
-
-1. Start the NEO wallet. 
-2. Click *Login using a Ledger*
-3. Make sure there is a drop of GAS on the account.
-4. Click on *Send*.
-5. Select the asset *ONT* and the right amount and deposit address
-6. Click *Next* and *Confirm*
