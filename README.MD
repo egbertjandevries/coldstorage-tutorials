@@ -21,7 +21,7 @@ This project contains the tutorials for Crypto Index fund coins for
 | ![MIOTA](https://widget.crypto-index.com/icon/32/miota.png) | IOTA  | <http://iota.org>              | <https://iotasear.ch/>                   | [here](/IOTA)  |
 | ![ICX](https://widget.crypto-index.com/icon/32/icx.png) | ICX | <https://https://icon.foundation/?lang=en> | <https://tracker.icon.foundation/> | [here](/ICX) |
 | ![LSK](https://widget.crypto-index.com/icon/32/lsk.png) | LSK   | <https://lisk.io/>             | <https://explorer.lisk.io/>              | [here](/LSK)   |
-| ![XEM](https://widget.crypto-index.com/icon/32/nem.png) | XEM   | <http://nem.io>                | <http://chain.nem.ninja/>                | [here](/NEM)   |
+| ![XEM](https://widget.crypto-index.com/icon/32/xem.png) | XEM   | <http://nem.io>                | <http://chain.nem.ninja/>                | [here](/NEM)   |
 | ![NEO](https://widget.crypto-index.com/icon/32/neo.png) | NEO   | <https://neo.org/>             | <https://neotracker.io/>                 | [here](/NEO)   |
 | ![ONT](https://widget.crypto-index.com/icon/32/ont.png) | ONT | <https://ont.io/> | <https://neoscan.io/> | [here](/ONT) |
 | ![STEEM](https://widget.crypto-index.com/icon/32/steem.png) | STEEM | <https://steem.io/>            |                                          | [here](/STEEM) |
