@@ -10,7 +10,7 @@ This project contains the tutorials for Crypto Index fund coins for
 
 |     | Coin  | Website                        | Block Explorer                           | Tutorial       |
 | ----| ----- | ------------------------------ | ---------------------------------------- | -------------- |
-| ![BTC](https://widget.crypto-index.com/icon/32/btc.png|| width=32)| BTC   |                                |                                          |                |  
+| ![BTC](https://widget.crypto-index.com/icon/32/btc.png)| BTC   |                                |                                          |                |  
 | ![ADA](https://widget.crypto-index.com/icon/32/ada.png)| ADA   | <https://www.cardanohub.org/>  | <https://cardanoexplorer.com/>           | [here](/ADA)   |
 | | ARDR  | <https://www.ardorplatform.org/> | <https://www.mynxt.info/asset/12422608354438203866> | [here](/ARDR)  |
 | | BCN   | <https://bytecoin.org/>        |      | [here](/BCN)   |
