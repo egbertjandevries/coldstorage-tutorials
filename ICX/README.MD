@@ -2,13 +2,13 @@
 ---
 ### Wallet Software
 
-There is a wallet [ICONEX](<hhttps://chrome.google.com/webstore/detail/iconex-beta/flpiciilemghbmfalicajoolhkkenfel>) that runs as a Chrome App and can be used to offline generate keypairs. 
+There is a wallet [ICONEX](<https://chrome.google.com/webstore/detail/iconex-beta/flpiciilemghbmfalicajoolhkkenfel>) that runs as a Chrome App and can be used to offline generate keypairs. 
 
-1. Navigate to https://chrome-extension-downloader.com/ and enter the URL of ICONEX: https://chrome.google.com/webstore/detail/iconex-beta/flpiciilemghbmfalicajoolhkkenfel
+1. Navigate to <https://chrome-extension-downloader.com/> and enter the URL of ICONEX: `https://chrome.google.com/webstore/detail/iconex-beta/flpiciilemghbmfalicajoolhkkenfel`
 2. Click *Download extension*
 3. Ignore the warning and save the file (ICONex-Beta_v1.0.1.23.crx)
 4. Get the source code by dropping the .crx file on <http://crxextractor.com/>
-5. Extract the downloaded Zip
+5. Extract the downloaded Zip (take it to your Airgapped PC)
 6. Rename the extracted directory to `ICONex-BETA_V1.0.1.23`
 7. Inside this directory, rename the `_metadata` directory to `metadata`
 8. Open Chrome and navigate to <chrome://extensions/>
