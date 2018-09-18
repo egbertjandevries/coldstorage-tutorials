@@ -2,7 +2,7 @@
 ---
 ### Wallet Software
 
-There is a wallet [TezBox](<https://chrome.google.com/webstore/detail/tezbox-tezos-wallet/mnfifefkajgofkcjkemidiaecocnkjeh>) that runs as a Chrome App and can be used to offline generate keypairs. Alternatively, the tool [Eztz](https://stephenandrews.github.io/eztz/) can be used
+There is a wallet [TezBox](<https://chrome.google.com/webstore/detail/tezbox-tezos-wallet/mnfifefkajgofkcjkemidiaecocnkjeh>) that runs as a Chrome App and can be used to offline generate keypairs. 
 
 #### Installing TezBox on an airgapped PC with Chrome 
 
@@ -17,11 +17,6 @@ There is a wallet [TezBox](<https://chrome.google.com/webstore/detail/tezbox-tez
 8. Select 'Developer mode' and Click *Load extracted extension* and point to the directory. This should install the app.
 9. Navigate to <chrome://apps> and start the ICONEX chrome app.
 
-#### Installing Eztz on an airgapped PC with Chrome 
-1. On an online PC, navigate to <https://stephenandrews.github.io/eztz/>
-2. Save this page using *Save Page As*
-3. Move the saved page, including the directory with files, to the airgapped PC
-
 ### Offline Address Generation using TezBox
 
 1. Start Chrome and the TezBox extension.
@@ -34,12 +29,6 @@ There is a wallet [TezBox](<https://chrome.google.com/webstore/detail/tezbox-tez
 8. You might want to register the bare private key as well, to have a second Restore option. Go to Settings and Enter the password you used earlier.
 9. Register the private key.
 
-### Offline Address Generation using Eztz
-1. Load the Eztz html page with Chrome on the airgapped PC.
-2. Enter a passphrase.
-3. Click *Generate New Mnemonic* and *Generate Keys*
-4. Register the Mnemonic, the Private key (`sk:`) and the Public address (`pkh:`)
-
 ### Using the Address Online
 1. Start Chrome and the TexBox extension
 2. If you have used it before click *Clear TezBox* first
@@ -47,3 +36,6 @@ There is a wallet [TezBox](<https://chrome.google.com/webstore/detail/tezbox-tez
 4. Enter the mnemonic and click *RESTORE TEXBOX*. Alternatively you could restore by *PRIVATE KEY*, and click *RESTORE TEZBOX*.
 5. Think of a (dummy) password and enter it twice, click on *DECRYPT*.
 6. Now you are in the wallet. Click on Send to transfer.
+
+### Offline Transaction Signing
+Read [here](https://medium.com/@KukaiWallet/setting-up-an-offline-wallet-with-kukai-6a6ca5cd6a36) how to do it.
