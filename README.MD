@@ -51,7 +51,7 @@ or – when supported – points to the associated [Nano Ledger S](ttps://suppor
 | ![WTC](https://widget.crypto-index.com/icon/32/wtc.png) | WTC  | [WaltonChain](https://www.waltonchain.org/) | <https://ethplorer.io/> | [Ledger Support](https://support.ledgerwallet.com/hc/en-us/articles/115005174589) (erc-20)  |
 | ![XEM](https://widget.crypto-index.com/icon/32/xem.png) | XEM   | [NEM](<http://nem.io>)                | <http://chain.nem.ninja/>                | [here](/NEM)   |
 | ![XLM](https://widget.crypto-index.com/icon/32/xlm.png) | XLM   | [Stellar](<https://www.stellar.org/>)     | <https://stellarchain.io/>   |   [Ledger Support](https://support.ledgerwallet.com/hc/en-us/articles/115003797194)   |
-| ![XMR](https://widget.crypto-index.com/icon/32/xmr.png) | XMR   | [Monero](<https://getmonero.org/>)       | <http://xmr.llcoins.net/checktx.html>    | [here](/XMR)   |
+| ![XMR](https://widget.crypto-index.com/icon/32/xmr.png) | XMR   | [Monero](<https://getmonero.org/>)       | <http://xmr.llcoins.net/checktx.html>    | [here](/XMR) - [Ledger Support](https://support.ledgerwallet.com/hc/en-us/articles/360006352934)   |
 | ![XRP](https://widget.crypto-index.com/icon/32/xrp.png) | XRP   | [XRP](https://ripple.com/) | <https://xrpcharts.ripple.com/#/graph> | [Ledger Support](https://support.ledgerwallet.com/hc/en-us/articles/115005177349) |
 | ![XTZ](https://widget.crypto-index.com/icon/32/xtz.png) | XTZ   | [Tezos](<https://tezos.com/>)      | <http://tzscan.io/>           | [here](/XTZ)   |
 | ![XVG](https://widget.crypto-index.com/icon/32/xvg.png) | XVG   | [Verge](<https://vergecurrency.com>)      | <https://verge-blockchain.info/>           | [here](/XVG)   |
