@@ -37,5 +37,55 @@ There is a wallet [TezBox](<https://chrome.google.com/webstore/detail/tezbox-tez
 5. Think of a (dummy) password and enter it twice, click on *DECRYPT*.
 6. Now you are in the wallet. Click on Send to transfer.
 
-### Offline Transaction Signing
+##Offline Transaction Signing using Kukai
 Read [here](https://medium.com/@KukaiWallet/setting-up-an-offline-wallet-with-kukai-6a6ca5cd6a36) how to do it.
+
+### Create wallet:
+
+####ONLINE SYSTEM:
+1. download Kukai
+1. Apply checksum
+1. Copy to offline system
+
+####OFFLINE SYSTEM:
+1. Install Kukai and start app
+1. Create new wallet
+1. Create entropy
+1. Administer seed
+1. Administer public key
+1. download encrypted keystone file (you can cancel this, file isn't needed)
+1. Go to 'backup' section
+1. Export View-only wallet to file using the password
+1. scan the contents of the file with the scanner to the online PC
+
+### Create unsigned operation:
+####ONLINE SYSTEM:
+1. Put the scanned content in a *.tez wallet file
+1. Load the wallet file in Kukai
+1. In Overview section of Kukai wallet, create a transaction (send)
+1. Select the From Address
+1. Insert the To Address
+1. Insert the Amount to Send and the Fee
+1. Click on preview
+1. Insert the password and click on confirm
+1. a file with the extention .tzop is created
+- Open the .tzop file and copy the unsigned operation to the QR software
+- Scan the QR code to the offline PC
+
+### Sign operation offline:
+####OFFLINE SYSTEM:
+1. In Kukai app, go to the Offline signing section
+1. In Sign operation (offline), insert the unsigned operation
+1. Insert the password and click on sign
+1. Download the signed.tzop file and open it
+1. Put the hex in the QR app and scan it to the online PC
+
+### Broadcast the transaction:
+#### ONLINE SYSTEM:
+1. In Kukai app, go to the Offline signing section
+1. In Broadcast (online), insert the hex and click on broadcast
+1. You get a message: "do you want to decode", ignore this (otherwise, it will not work)
+2. Register the transaction id for checking it on [tzscan.io](<tzscan.io>)
+
+
+
