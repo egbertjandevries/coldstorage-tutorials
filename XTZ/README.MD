@@ -59,7 +59,7 @@ Read [here](https://medium.com/@KukaiWallet/setting-up-an-offline-wallet-with-ku
 1. scan the contents of the file with the scanner to the online PC
 
 ### Create unsigned operation:
-####ONLINE SYSTEM:
+#### ONLINE SYSTEM:
 1. Put the scanned content in a *.tez wallet file
 1. Load the wallet file in Kukai
 1. In Overview section of Kukai wallet, create a transaction (send)
@@ -73,7 +73,7 @@ Read [here](https://medium.com/@KukaiWallet/setting-up-an-offline-wallet-with-ku
 - Scan the QR code to the offline PC
 
 ### Sign operation offline:
-####OFFLINE SYSTEM:
+#### OFFLINE SYSTEM:
 1. In Kukai app, go to the Offline signing section
 1. In Sign operation (offline), insert the unsigned operation
 1. Insert the password and click on sign
