@@ -69,8 +69,8 @@ Read [here](https://medium.com/@KukaiWallet/setting-up-an-offline-wallet-with-ku
 1. Click on preview
 1. Insert the password and click on confirm
 1. a file with the extention .tzop is created
-- Open the .tzop file and copy the unsigned operation to the QR software
-- Scan the QR code to the offline PC
+1. Open the .tzop file and copy the unsigned operation to the QR software
+1. Scan the QR code to the offline PC
 
 ### 2. Sign operation offline:
 #### OFFLINE SYSTEM:
