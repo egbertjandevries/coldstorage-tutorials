@@ -53,7 +53,7 @@ Read [here](https://medium.com/@KukaiWallet/setting-up-an-offline-wallet-with-ku
 ----------------------
 
 # Using Tezbox and throw-away addresses
----
+
 ### Wallet Software
 
 There is a wallet [TezBox](<https://chrome.google.com/webstore/detail/tezbox-tezos-wallet/mnfifefkajgofkcjkemidiaecocnkjeh>) that runs as a Chrome App and can be used to offline generate keypairs. 
