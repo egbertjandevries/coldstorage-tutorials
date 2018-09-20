@@ -37,17 +37,17 @@ There is a wallet [TezBox](<https://chrome.google.com/webstore/detail/tezbox-tez
 5. Think of a (dummy) password and enter it twice, click on *DECRYPT*.
 6. Now you are in the wallet. Click on Send to transfer.
 
-##Offline Transaction Signing using Kukai
+# Offline Transaction Signing using Kukai
 Read [here](https://medium.com/@KukaiWallet/setting-up-an-offline-wallet-with-kukai-6a6ca5cd6a36) how to do it.
 
-### Create wallet:
+### 0. Create wallet:
 
-####ONLINE SYSTEM:
+#### ONLINE SYSTEM:
 1. download Kukai
 1. Apply checksum
 1. Copy to offline system
 
-####OFFLINE SYSTEM:
+#### OFFLINE SYSTEM:
 1. Install Kukai and start app
 1. Create new wallet
 1. Create entropy
@@ -58,7 +58,7 @@ Read [here](https://medium.com/@KukaiWallet/setting-up-an-offline-wallet-with-ku
 1. Export View-only wallet to file using the password
 1. scan the contents of the file with the scanner to the online PC
 
-### Create unsigned operation:
+### 1. Create unsigned operation:
 #### ONLINE SYSTEM:
 1. Put the scanned content in a *.tez wallet file
 1. Load the wallet file in Kukai
@@ -72,7 +72,7 @@ Read [here](https://medium.com/@KukaiWallet/setting-up-an-offline-wallet-with-ku
 - Open the .tzop file and copy the unsigned operation to the QR software
 - Scan the QR code to the offline PC
 
-### Sign operation offline:
+### 2. Sign operation offline:
 #### OFFLINE SYSTEM:
 1. In Kukai app, go to the Offline signing section
 1. In Sign operation (offline), insert the unsigned operation
@@ -80,7 +80,7 @@ Read [here](https://medium.com/@KukaiWallet/setting-up-an-offline-wallet-with-ku
 1. Download the signed.tzop file and open it
 1. Put the hex in the QR app and scan it to the online PC
 
-### Broadcast the transaction:
+### 3. Broadcast the transaction:
 #### ONLINE SYSTEM:
 1. In Kukai app, go to the Offline signing section
 1. In Broadcast (online), insert the hex and click on broadcast
