@@ -85,7 +85,7 @@ Read [here](https://medium.com/@KukaiWallet/setting-up-an-offline-wallet-with-ku
 1. In Kukai app, go to the Offline signing section
 1. In Broadcast (online), insert the hex and click on broadcast
 1. You get a message: "do you want to decode", ignore this (otherwise, it will not work)
-2. Register the transaction id for checking it on [tzscan.io](<tzscan.io>)
+2. Register the transaction id for checking it on [tzscan.io](<http://www.tzscan.io>)
 
 
 
