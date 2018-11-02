@@ -1,12 +1,12 @@
-#Bitcoin Diamond
+# Bitcoin Diamond
 
-###Wallet Sofware
+### Wallet Sofware
 
 Best use a the Electrum Bitcoin Diamond light wallet for Bitcoin Diamond: <https://github.com/bitcoindiamondelectrum/electrum/releases>
 
 
 
-###Offline Address Generation
+### Offline Address Generation
 
 1. Start the wallet and think of a unique Wallet name, click *Next*.
 2. Choose *Standard Wallet* and click *Next*.
