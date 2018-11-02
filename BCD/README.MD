@@ -1,7 +1,7 @@
-#Bitcoin Diamond
+# Bitcoin Diamond
 
-###Wallet Sofware
+### Wallet Sofware
 
 
-###Offline Address Generation
+### Offline Address Generation
 
