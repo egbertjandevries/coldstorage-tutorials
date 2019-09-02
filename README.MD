@@ -41,7 +41,8 @@ or – when supported – points to the associated [Nano Ledger S](ttps://suppor
 | ![ONT](https://widget.crypto-index.com/icon/32/ont.png) | ONT | [Ontology](<https://ont.io/>) | <https://neoscan.io/> | [Ledger Support](https://support.ledgerwallet.com/hc/en-us/articles/360007583514) |
 | ![PPT](https://widget.crypto-index.com/icon/32/ppt.png) | PPT  | [Populous](https://populous.world/) | <https://ethplorer.io/> | [Ledger Support](https://support.ledgerwallet.com/hc/en-us/articles/115005174589) (erc-20)  |
 | ![QTUM](https://widget.crypto-index.com/icon/32/qtum.png) | QTUM  | [Qtum](https://qtum.org/en) | <https://explorer.qtum.org/> | [Ledger Support](https://support.ledgerwallet.com/hc/en-us/articles/115003776913) (erc-20)  |
-| ![REP](https://widget.crypto-index.com/icon/32/rep.png) | REP  | [Augur](https://www.augur.net/) | <https://ethplorer.io/> | [Ledger Support](https://support.ledgerwallet.com/hc/en-us/articles/115005174589) (erc-20)  |
+| ![RVN](https://widget.crypto-index.com/icon/32/rep.png) | RVN  | [Raven](https://ravencoin.org/) | <https://ravencoin.network/> | [RVN](/RVN)  |
+| ![REP](https://widget.crypto-index.com/icon/32/rvn.png) | REP  | [Augur](https://www.augur.net/) | <https://ethplorer.io/> | [Ledger Support](https://support.ledgerwallet.com/hc/en-us/articles/115005174589) (erc-20)  |
 | ![SC](https://widget.crypto-index.com/icon/32/sc.png) | SC | [SiaCoin](<https://sia.tech/>)              | <https://explore.sia.tech/>. | [here](/SC) | 
 | ![SNT](https://widget.crypto-index.com/icon/32/snt.png) | SNT  | [Status](https://status.im/) | <https://ethplorer.io/> | [Ledger Support](https://support.ledgerwallet.com/hc/en-us/articles/115005174589) (erc-20)  |
 | ![STEEM](https://widget.crypto-index.com/icon/32/steem.png) | STEEM | [Steem](<https://steem.io/>)           |                                          | [here](/STEEM) |
